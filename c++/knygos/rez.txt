@@ -1,0 +1,15 @@
+knygų sąrašas po išėmimo:
+Nr. 1 3
+Nr. 3 5
+Nr. 5 2
+Nr. 9 1
+Nr. 13 1
+Nr. 14 8
+knygų sąrašas po išėmimo ir pridėjimo:
+Nr. 1 3
+Nr. 3 5
+Nr. 4 1
+Nr. 5 3
+Nr. 9 1
+Nr. 13 1
+Nr. 14 8

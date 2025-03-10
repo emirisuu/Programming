@@ -1,0 +1,6 @@
+Spinta    10
+Stalas    200
+Lova      3
+Kede      200
+Lempa     1600
+

@@ -1,0 +1,30 @@
+zaidzia krepsini 7
+Komanda sudaro vaikinai 4 merginos 3
+M 180
+V 182
+V 189
+V 188
+M 175
+M 173
+V 196
+Krepsinio komandos ugio vidurkis 183.29
+zaidzia futbola 12
+Komanda sudaro vaikinai 8 merginos 4
+V 178
+M 164
+M 165
+V 178
+V 178
+V 189
+V 177
+M 178
+V 169
+M 159
+V 179
+V 176
+Komandu palaikymo grupe 4
+Komanda sudaro vaikinai 0 merginos 4
+159
+162
+168
+169

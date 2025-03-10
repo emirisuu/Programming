@@ -1,0 +1,5 @@
+4 100
+5 100
+11 90
+13 65
+Daugiausia yra 4,5 rusiu

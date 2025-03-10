@@ -1,0 +1,8 @@
+Bėgikų finalinio bėgimo sąrašas
+Vardas ir             Parodytas  Bėgimo
+pavardė               laikas     takelis
+Algis Skrajūnas    0 56         5
+Algis Trečias      0 59         4
+Petras Didysis      1 25         3
+Petras Pirmas       2 25         2
+Kasparas Eiklusis   2 45         1

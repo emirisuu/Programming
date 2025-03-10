@@ -1,0 +1,6 @@
+Stalas 8.50 800
+Lempa 0.50 1500
+Spinta 50.70 20
+Kede 5.69 300
+Lova 500 5.
+

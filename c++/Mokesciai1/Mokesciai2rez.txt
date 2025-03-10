@@ -1,0 +1,4 @@
+Pavardė, vardas      Buto Nr.  Šildymas  Elektra  Vanduo
+Pirmasis Petras     15        5.50         0.00     -40.00
+Antrutė Jurgita    13        -25.05         2.50     -13.00
+Katinas Batuotas    16        -5.50         -18.20     -45.00

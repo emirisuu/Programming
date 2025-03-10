@@ -1,0 +1,6 @@
+Reikalingi varžtai:
+3 2
+2 4
+Reikalingos veržlės:
+2 8
+1 10

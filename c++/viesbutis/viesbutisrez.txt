@@ -1,0 +1,5 @@
+Pavardė, vardas          Atvyko      Išvyko      Sumokėjo
+Antrutė Jurgita    2011 1 15 2011 3 20 1583.40
+Pirmasis Petras     2010 12 25 2011 1 8 382.50
+Pilkoji Pelytė     2010 11 1 2011 4 4 15.50
+Viešbučio pajamos: 1981.40

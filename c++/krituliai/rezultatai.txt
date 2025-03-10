@@ -1,0 +1,3 @@
+Is viso iskrito krituliu (mm): 206
+Nelijo (dienas): 2
+Vidutiniskai kiekviena lietinga diena iskrito krituliu (mm): 25

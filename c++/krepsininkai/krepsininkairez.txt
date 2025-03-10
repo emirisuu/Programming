@@ -1,0 +1,8 @@
+Mokinių surinkusių ne mažiau kaip 15 taškų sarašas
+Vardas           Taškai
+Petras          20
+Algis          18
+Kasparas          26
+Taikliausias krepšininkas buvo Kasparas
+Klasės mokinys vidutiniškai surinko taškų: 17
+Atrinktieji mokiniai vidutiniškai surinko taškų: 21

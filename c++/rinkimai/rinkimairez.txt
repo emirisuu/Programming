@@ -1,0 +1,4 @@
+Algis          Liepa          2
+Petras         Kaladė        2
+Rita           Kaladė        1
+Algis          Kaladė        1

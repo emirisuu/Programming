@@ -1,0 +1,16 @@
+Žaidėjai ir jų surinkti taškai:
+1 6
+2 3
+3 6
+4 4
+Mažiausiai taškų surinko:
+2
+Daugiausiai taškų surinko:
+3
+Po įterpimo:
+1 6
+3 6
+2 3
+2 3
+3 6
+4 4
