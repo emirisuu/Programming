@@ -1,0 +1,11 @@
+{
+  "authors": ["meatball133"],
+  "contributors": ["ryanplusplus"],
+  "files": {
+    "solution": ["src/foto_fusionist.cr"],
+    "test": ["spec/foto_fusionist_spec.cr"],
+    "exemplar": [".meta/src/exemplar.cr"]
+  },
+  "icon": "hexadecimal",
+  "blurb": "Help the your friend develop Foto Fusionist, while learning about Binary, Octal, and Hexadecimal"
+}

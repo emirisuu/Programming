@@ -1,0 +1,18 @@
+{
+  "authors": ["meatball133"],
+  "contributors": ["ryanplusplus"],
+  "files": {
+    "solution": [
+      "src/weighing_machine.cr"
+    ],
+    "test": [
+      "spec/weighing_machine_spec.cr"
+    ],
+    "exemplar": [
+      ".meta/src/exemplar.cr"
+    ]
+  },
+  "blurb": "Learn about getter and setters by implementing a weighing machine.",
+  "icon": "weighing-machine",
+  "forked_from": ["csharp/weighing-machine"]
+}
