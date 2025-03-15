@@ -1,0 +1,9 @@
+{
+  "authors": ["meatball133"],
+  "files": {
+    "solution": ["src/bank_account.cr"],
+    "test": ["spec/bank_account_spec.cr"],
+    "example": [".meta/src/example.cr"]
+  },
+  "blurb": "Simulate a bank account supporting opening/closing, withdraws, and deposits of money. Watch out for concurrent transactions!"
+}
