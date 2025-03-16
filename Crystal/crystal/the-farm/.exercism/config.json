@@ -1,0 +1,18 @@
+{
+  "authors": ["meatball133"],
+  "contributors": ["ryanplusplus"],
+  "files": {
+    "solution": [
+      "src/the_farm.cr"
+    ],
+    "test": [
+      "spec/the_farm_spec.cr"
+    ],
+    "exemplar": [
+      ".meta/src/exemplar.cr"
+    ]
+  },
+  "blurb": "Learn about error handling in Crystal while feeding cows on the farm.",
+  "forked_from": ["go/the-farm"],
+  "icon": "the-farm"
+}

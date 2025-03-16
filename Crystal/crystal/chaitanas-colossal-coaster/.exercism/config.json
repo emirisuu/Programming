@@ -1,0 +1,11 @@
+{
+  "authors": ["meatball133"],
+  "contributors": [],
+  "files": {
+    "solution": ["src/chaitanas_colossal_coaster.cr"],
+    "test": ["spec/chaitanas_colossal_coaster_spec.cr"],
+    "exemplar": [".meta/src/exemplar.cr"]
+  },
+  "blurb": "Learn useful array methods helping Chaitana manage the lines for her colossal roller coaster.",
+  "icon": "spiral-matrix"
+}

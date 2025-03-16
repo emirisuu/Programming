@@ -1,0 +1,12 @@
+{
+  "authors": ["meatball133"],
+  "contributors": ["ryanplusplus"],
+  "files": {
+    "solution": ["src/language_list.cr"],
+    "test": ["spec/language_list_spec.cr"],
+    "exemplar": [".meta/src/exemplar.cr"]
+  },
+  "icon": "language-list",
+  "forked_from": ["elixir"],
+  "blurb": "Learn about arrays by keeping track of the programming languages you're currently learning on Exercism."
+}
