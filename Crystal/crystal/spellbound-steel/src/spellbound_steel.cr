@@ -4,16 +4,7 @@ module SpellboundSteel
   end
 
   def self.capitalize_names(characters)
-    new = characters.map do |card_name|
-      if card_name.includes? " "
-        card_name.sub(card_name[0], card_name[0].upcase)
-        index = card_name.index(" ")
-        card_name.sub(card_name[index + 1], card_name[index + 1].upcase)
-      else
-        card_name.capitalize
-      end
-    end
-    new
+    characters.map &.titleize
   end
 
   def self.calculate_power_level(cards)
@@ -32,11 +23,12 @@ module SpellboundSteel
   end
 
   def self.decode_characters(character)
+    new = ""
     character.each_char_with_index do |char, index|
       unless index.odd?
-        character.sub(char, "")
+        new += char
       end
     end
-    character
+    new
   end
 end
