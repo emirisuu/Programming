@@ -1,25 +1,27 @@
 module Anagram
   def self.find(subject : String, candidates : Array(String)) : Array(String)
-    subject.downcase
-    dup_candidates = candidates.dup.map &.downcase
+    subject = subject.downcase
     subject_array = Array(Char).new
     subject.each_char do |char|
       subject_array << char
     end
-    dup_candidates.each_with_index do |word, index|
-      if word.downcase == subject || word.size != subject.size
+    index = 0
+    while index < candidates.size
+      if candidates[index].size != subject.size || candidates[index].downcase == subject
         candidates.delete_at index
-        dup_candidates.delete_at index
+        index -= 1
       else
-        word_array = Array(Char).new
-        word.each_char do |char|
-          word_array << char
+        temp = candidates[index].downcase
+        temp_array = Array(Char).new
+        temp.each_char do |char|
+          temp_array << char
         end
-        unless word_array.sort == subject_array.sort
+        unless temp_array.sort == subject_array.sort
           candidates.delete_at index
-          dup_candidates.delete_at index
+          index -= 1
         end
       end
+      index += 1
     end
     candidates
   end
