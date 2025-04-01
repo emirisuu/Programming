@@ -1,5 +1,9 @@
 module ArmstrongNumbers
   def self.armstrong_number?(input : Number) : Bool
-    # Write your code for the 'Armstrong Numbers' exercise in this file.
+    sum = 0
+    input.to_s.each_char do |char|
+      sum += char.to_i ** input.to_s.size
+    end
+    sum == input
   end
 end
