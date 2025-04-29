@@ -48,15 +48,15 @@ int main() {
     }
 
     int N;
-    cout << "Įveskite skaičių, kurio ieškote: ";
+    cout << "Iveskite skaiciu, kurio ieskote: ";
     cin >> N;
     
     int steps = SuskaiciuotiZingsnius(root, N);
     
     if (steps != -1)
-        cout << "Skaičius rastas po " << steps << " žingsnių." << endl;
+        cout << "Skaicius rastas po " << steps << " zingsniu." << endl;
     else
-        cout << "Skaičius nerastas." << endl;
+        cout << "Skaicius nerastas." << endl;
     
     return 0;
 }
